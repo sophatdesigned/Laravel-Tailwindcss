@@ -1,0 +1,2 @@
+# Laravel-Tailwindcss
+Laravel Installation
